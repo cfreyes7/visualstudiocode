@@ -1,1 +1,1 @@
-This is a sample website built using HTML5 and CSS.
+This project is done with HTML5 and CSS
