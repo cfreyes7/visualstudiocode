@@ -1,0 +1,1 @@
+This is a sample website built using HTML5 and CSS.
